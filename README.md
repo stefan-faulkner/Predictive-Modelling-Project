@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # Predictive-Modelling-Project
-=======
+
+
 Imagine that you are a data analytics consultant for a firm who wants to get projected sale price of houses from house sale advertisements currently in the market, ignoring their asking price. The housing data (housing.csv)collected by the firm includes 500 sales in the last six months and include the variables. The last column is the outcome variable.
 
 * elevation: Elevation of the base of the house
@@ -22,4 +22,3 @@ Imagine that you are a data analytics consultant for a firm who wants to get pro
 * price: Final House Sale Price
 
 The aim is to develop the best possible linear regression model to predict the house sale price using the independent variables using a wide variety of techniques.
->>>>>>> Project Complete
